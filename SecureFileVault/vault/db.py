@@ -1,1 +1,1 @@
-
+# SQLite database functions
